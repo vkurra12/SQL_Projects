@@ -1,5 +1,5 @@
 # Netflix Movies and TV Shows Data Analysis using SQL  
-![Netflix.logo](https://github.com/Mahadevkempe/SQL_Projects/blob/main/Netflix%20Movies%20and%20TV%20Shows/Logo.png)
+![Netflix.logo](https://github.com/vkurra12/SQL_Projects/blob/main/Netflix%20Movies%20and%20TV%20Shows/Logo.png)
 
 # Problem Statement:
 Netflix is a leading streaming platform that continuously expands its content library. To maintain its competitive edge, Netflix needs to gain actionable insights into its content portfolio. The goal is to analyze the distribution of movies and TV shows, understand content trends, identify popular genres, and evaluate regional content preferences
